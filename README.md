@@ -29,7 +29,7 @@ A comprehensive mobile application that unifies access to multiple world-leading
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/ai-workspace-hub.git
+git clone https://github.com/Daksh-417/AI-Workspace-Hub.git
 cd ai-workspace-hub
 ```
 
