@@ -129,7 +129,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Support
 
-For support, email support@aiworkspacehub.com or join our Discord community.
+For support, email support@aiworkspacehub.com or join our Discord community.(NOTE:Not working Currently)
 
 ## Roadmap
 
